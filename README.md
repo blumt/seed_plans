@@ -1,3 +1,3 @@
-# seed_plans
+# Seed plans!!!
 
-Demo for how to generate seed plans for GerryChain
+Demo for how to generate seed plans for GerryChain.
